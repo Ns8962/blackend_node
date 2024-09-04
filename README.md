@@ -1,4 +1,4 @@
-## NODE JS API-LOGIN BY Nattapol.s(2024) ##
+## NODE JS API-LOGIN  ##
 libraly / package
 - use express
 - use mysql2
@@ -20,3 +20,4 @@ step3. Update method PUT http://localhost:8000/api/edit_user/{id}
 step4. Logout method POST http://localhost:8000/api/logout
 
 ###########################################
+BY Nattapol.s(2024)
