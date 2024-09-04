@@ -10,8 +10,13 @@ libraly / package
 - use jsonwebtoken
 
 ############################################
-step1. Register method POST http://localhost:8000/api/register
+
+step1. Register method POST http://localhost:8000/api/register 
+
 step2. Login method POST http://localhost:8000/api/login
+
 step3. Update method PUT http://localhost:8000/api/edit_user/{id}
+
 step4. Logout method POST http://localhost:8000/api/logout
+
 ###########################################
